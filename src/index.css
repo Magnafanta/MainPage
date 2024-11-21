@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/*<div className="Remember-Me">
+<label><input type="checkbox"/> Remember Me </label>
+<a href="#">Forgot Password</a>
+</div>
+*/
